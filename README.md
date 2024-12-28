@@ -1,0 +1,2 @@
+# otomata
+for exmp: 
